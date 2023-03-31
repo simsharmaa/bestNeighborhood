@@ -1,0 +1,15 @@
+* Team name: The Pittsburgh Parkers
+* Team members: Aidan McComsey (acm220@pitt.edu)
+                Simran Sharma (srs247@pitt.edu)
+                
+* Canvas group: 24
+Datasets: 
+https://data.wprdc.org/dataset/residential-permit-parking-program-areas/resource/e2b1ca6b-bb2e-4767-bcc9-ce305671d104
+Pittsburgh Parking Meters and Payment Points: https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points
+
+https://data.wprdc.org/dataset/metered-streets-pittsburgh-parking-authority/resource/9b68e71a-d117-41ad-81e1-af6965ea40f4
+
+
+This repo contains Jupyter notebooks which analyze parking data from around the city of Pittsburgh. By analyzing these data sources we can make a conclusion about which
+Pittsburgh neighborhood is the best on the basis of parking.
+        
